@@ -1,2 +1,2 @@
-# EGE-C-
-EGE in C++
+# EGE C++
+
